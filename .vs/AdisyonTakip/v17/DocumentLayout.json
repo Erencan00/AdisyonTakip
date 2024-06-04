@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MustafaAdisyon\\AdisyonTakip-f1eb2048ce8754e8702ce6862d38d334b4a49761\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67DB9138-4ABD-49BF-BC4F-371882E2BA27}|AdisyonTakip.csproj|d:\\mustafaadisyon\\adisyontakip-f1eb2048ce8754e8702ce6862d38d334b4a49761\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67DB9138-4ABD-49BF-BC4F-371882E2BA27}|AdisyonTakip.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DB9138-4ABD-49BF-BC4F-371882E2BA27}|AdisyonTakip.csproj|d:\\mustafaadisyon\\adisyontakip-f1eb2048ce8754e8702ce6862d38d334b4a49761\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67DB9138-4ABD-49BF-BC4F-371882E2BA27}|AdisyonTakip.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DB9138-4ABD-49BF-BC4F-371882E2BA27}|AdisyonTakip.csproj|d:\\mustafaadisyon\\adisyontakip-f1eb2048ce8754e8702ce6862d38d334b4a49761\\myclass\\global\\glb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67DB9138-4ABD-49BF-BC4F-371882E2BA27}|AdisyonTakip.csproj|solutionrelative:myclass\\global\\glb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DB9138-4ABD-49BF-BC4F-371882E2BA27}|AdisyonTakip.csproj|d:\\mustafaadisyon\\adisyontakip-f1eb2048ce8754e8702ce6862d38d334b4a49761\\myclass\\model\\masalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67DB9138-4ABD-49BF-BC4F-371882E2BA27}|AdisyonTakip.csproj|solutionrelative:myclass\\model\\masalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DB9138-4ABD-49BF-BC4F-371882E2BA27}|AdisyonTakip.csproj|D:\\MustafaAdisyon\\AdisyonTakip-f1eb2048ce8754e8702ce6862d38d334b4a49761\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67DB9138-4ABD-49BF-BC4F-371882E2BA27}|AdisyonTakip.csproj|solutionrelative:anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DB9138-4ABD-49BF-BC4F-371882E2BA27}|AdisyonTakip.csproj|D:\\MustafaAdisyon\\AdisyonTakip-f1eb2048ce8754e8702ce6862d38d334b4a49761\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67DB9138-4ABD-49BF-BC4F-371882E2BA27}|AdisyonTakip.csproj|solutionrelative:anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\MustafaAdisyon\\AdisyonTakip-f1eb2048ce8754e8702ce6862d38d334b4a49761\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "D:\\MustafaAdisyon\\AdisyonTakip-f1eb2048ce8754e8702ce6862d38d334b4a49761\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAwwBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T07:49:58.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "glb.cs",
+              "DocumentMoniker": "D:\\MustafaAdisyon\\AdisyonTakip-f1eb2048ce8754e8702ce6862d38d334b4a49761\\MyClass\\Global\\glb.cs",
+              "RelativeDocumentMoniker": "MyClass\\Global\\glb.cs",
+              "ToolTip": "D:\\MustafaAdisyon\\AdisyonTakip-f1eb2048ce8754e8702ce6862d38d334b4a49761\\MyClass\\Global\\glb.cs",
+              "RelativeToolTip": "MyClass\\Global\\glb.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T07:48:58.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Masalar.cs",
+              "DocumentMoniker": "D:\\MustafaAdisyon\\AdisyonTakip-f1eb2048ce8754e8702ce6862d38d334b4a49761\\MyClass\\Model\\Masalar.cs",
+              "RelativeDocumentMoniker": "MyClass\\Model\\Masalar.cs",
+              "ToolTip": "D:\\MustafaAdisyon\\AdisyonTakip-f1eb2048ce8754e8702ce6862d38d334b4a49761\\MyClass\\Model\\Masalar.cs",
+              "RelativeToolTip": "MyClass\\Model\\Masalar.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T07:46:02.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Anaform.cs",
+              "DocumentMoniker": "D:\\MustafaAdisyon\\AdisyonTakip-f1eb2048ce8754e8702ce6862d38d334b4a49761\\Anaform.cs",
+              "RelativeDocumentMoniker": "Anaform.cs",
+              "ToolTip": "D:\\MustafaAdisyon\\AdisyonTakip-f1eb2048ce8754e8702ce6862d38d334b4a49761\\Anaform.cs",
+              "RelativeToolTip": "Anaform.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAK0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T07:01:04.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Anaform.cs [Design]",
+              "DocumentMoniker": "D:\\MustafaAdisyon\\AdisyonTakip-f1eb2048ce8754e8702ce6862d38d334b4a49761\\Anaform.cs",
+              "RelativeDocumentMoniker": "Anaform.cs",
+              "ToolTip": "D:\\MustafaAdisyon\\AdisyonTakip-f1eb2048ce8754e8702ce6862d38d334b4a49761\\Anaform.cs [Design]",
+              "RelativeToolTip": "Anaform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T21:57:23.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\MustafaAdisyon\\AdisyonTakip-f1eb2048ce8754e8702ce6862d38d334b4a49761\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "D:\\MustafaAdisyon\\AdisyonTakip-f1eb2048ce8754e8702ce6862d38d334b4a49761\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T18:29:51.695Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
